@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "107602443177",
+    "project_id": "findom-b6703",
+    "storage_bucket": "findom-b6703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107602443177:android:4673d98f4f481bd06322b8",
+        "android_client_info": {
+          "package_name": "com.example.findom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107602443177-5e5mr6eqa3gckd4c0jqh5ov4vh81iu8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findom",
+            "certificate_hash": "4ce3a949da0cd169b9313a9e3688c27e438556a6"
+          }
+        },
+        {
+          "client_id": "107602443177-3dj6brbkr7irvg9ihkorpthj2nh1gl01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_J_vuJeNEWyW3rrNDjuJRCJThY9MRt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107602443177-3dj6brbkr7irvg9ihkorpthj2nh1gl01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107602443177-pmup732151c01tjpqqpdiob87p1i3g3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.findom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
